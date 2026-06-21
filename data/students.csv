@@ -1,61 +1,261 @@
 student_code,first_name,last_name,email,phone,study_program,study_year,enrolled_at
-STU001,Egor,Koptev,egor.koptev001@example.com,+37060010001,Software Engineering,1,2024-09-01
-STU002,Alina,Komar,alina.komar002@example.com,+37060010002,Business Informatics,2,2025-09-01
-STU003,Ivan,Lemesh,ivan.lemesh003@example.com,+37060010003,Computer Science,3,2024-09-01
-STU004,Daria,Klimova,daria.klimova004@example.com,+37060010004,Economics,4,2025-09-01
-STU005,Natan,Krasnapiorau,natan.krasnapiorau005@example.com,+37060010005,Data Analytics,1,2024-09-01
-STU006,Anastasiya,Kudriavceva,anastasiya.kudriavceva006@example.com,+37060010006,Cybersecurity,2,2025-09-01
-STU007,Anton,Melehov,anton.melehov007@example.com,+37060010007,Software Engineering,3,2024-09-01
-STU008,Yurii,Nazaruk,yurii.nazaruk008@example.com,+37060010008,Business Informatics,4,2025-09-01
-STU009,Hanna,Siamionava,hanna.siamionava009@example.com,+37060010009,Computer Science,1,2024-09-01
-STU010,Maksim,Paskovskij,maksim.paskovskij010@example.com,+37060010010,Economics,2,2025-09-01
-STU011,Jonas,Kazlauskas,jonas.kazlauskas011@example.com,+37060010011,Data Analytics,3,2024-09-01
-STU012,Ieva,Mikalauskaite,ieva.mikalauskaite012@example.com,+37060010012,Cybersecurity,4,2025-09-01
-STU013,Rokas,Petraitis,rokas.petraitis013@example.com,+37060010013,Software Engineering,1,2024-09-01
-STU014,Greta,Stankute,greta.stankute014@example.com,+37060010014,Business Informatics,2,2025-09-01
-STU015,Tomas,Vaitkus,tomas.vaitkus015@example.com,+37060010015,Computer Science,3,2024-09-01
-STU016,Marta,Jankauskaite,marta.jankauskaite016@example.com,+37060010016,Economics,4,2025-09-01
-STU017,Paulius,Balciunas,paulius.balciunas017@example.com,+37060010017,Data Analytics,1,2024-09-01
-STU018,Laura,Rutkauskaite,laura.rutkauskaite018@example.com,+37060010018,Cybersecurity,2,2025-09-01
-STU019,Mantas,Urbanas,mantas.urbanas019@example.com,+37060010019,Software Engineering,3,2024-09-01
-STU020,Austeja,Sakalauskaite,austeja.sakalauskaite020@example.com,+37060010020,Business Informatics,4,2025-09-01
-STU021,Karolis,Novak,karolis.novak021@example.com,+37060010021,Computer Science,1,2024-09-01
-STU022,Gabriele,Kowalski,gabriele.kowalski022@example.com,+37060010022,Economics,2,2025-09-01
-STU023,Dominykas,Smith,dominykas.smith023@example.com,+37060010023,Data Analytics,3,2024-09-01
-STU024,Viktorija,Brown,viktorija.brown024@example.com,+37060010024,Cybersecurity,4,2025-09-01
-STU025,Lukas,Johnson,lukas.johnson025@example.com,+37060010025,Software Engineering,1,2024-09-01
-STU026,Emilija,Miller,emilija.miller026@example.com,+37060010026,Business Informatics,2,2025-09-01
-STU027,Nojus,Garcia,nojus.garcia027@example.com,+37060010027,Computer Science,3,2024-09-01
-STU028,Kamile,Martinez,kamile.martinez028@example.com,+37060010028,Economics,4,2025-09-01
-STU029,Matas,Wilson,matas.wilson029@example.com,+37060010029,Data Analytics,1,2024-09-01
-STU030,Ugne,Anderson,ugne.anderson030@example.com,+37060010030,Cybersecurity,2,2025-09-01
-STU031,Daniel,Koptev,daniel.koptev031@example.com,+37060010031,Software Engineering,3,2024-09-01
-STU032,Sofia,Komar,sofia.komar032@example.com,+37060010032,Business Informatics,4,2025-09-01
-STU033,Alex,Lemesh,alex.lemesh033@example.com,+37060010033,Computer Science,1,2024-09-01
-STU034,Maria,Klimova,maria.klimova034@example.com,+37060010034,Economics,2,2025-09-01
-STU035,Timur,Krasnapiorau,timur.krasnapiorau035@example.com,+37060010035,Data Analytics,3,2024-09-01
-STU036,Elena,Kudriavceva,elena.kudriavceva036@example.com,+37060010036,Cybersecurity,4,2025-09-01
-STU037,Vlad,Melehov,vlad.melehov037@example.com,+37060010037,Software Engineering,1,2024-09-01
-STU038,Olga,Nazaruk,olga.nazaruk038@example.com,+37060010038,Business Informatics,2,2025-09-01
-STU039,Kirill,Siamionava,kirill.siamionava039@example.com,+37060010039,Computer Science,3,2024-09-01
-STU040,Nikita,Paskovskij,nikita.paskovskij040@example.com,+37060010040,Economics,4,2025-09-01
-STU041,Artem,Kazlauskas,artem.kazlauskas041@example.com,+37060010041,Data Analytics,1,2024-09-01
-STU042,Polina,Mikalauskaite,polina.mikalauskaite042@example.com,+37060010042,Cybersecurity,2,2025-09-01
-STU043,Denis,Petraitis,denis.petraitis043@example.com,+37060010043,Software Engineering,3,2024-09-01
-STU044,Irina,Stankute,irina.stankute044@example.com,+37060010044,Business Informatics,4,2025-09-01
-STU045,Roman,Vaitkus,roman.vaitkus045@example.com,+37060010045,Computer Science,1,2024-09-01
-STU046,Anastasia,Jankauskaite,anastasia.jankauskaite046@example.com,+37060010046,Economics,2,2025-09-01
-STU047,Pavel,Balciunas,pavel.balciunas047@example.com,+37060010047,Data Analytics,3,2024-09-01
-STU048,Ksenia,Rutkauskaite,ksenia.rutkauskaite048@example.com,+37060010048,Cybersecurity,4,2025-09-01
-STU049,Sergey,Urbanas,sergey.urbanas049@example.com,+37060010049,Software Engineering,1,2024-09-01
-STU050,Anna,Sakalauskaite,anna.sakalauskaite050@example.com,+37060010050,Business Informatics,2,2025-09-01
-STU051,Andrei,Novak,andrei.novak051@example.com,+37060010051,Computer Science,3,2024-09-01
-STU052,Valeria,Kowalski,valeria.kowalski052@example.com,+37060010052,Economics,4,2025-09-01
-STU053,Dmitry,Smith,dmitry.smith053@example.com,+37060010053,Data Analytics,1,2024-09-01
-STU054,Yana,Brown,yana.brown054@example.com,+37060010054,Cybersecurity,2,2025-09-01
-STU055,Oleg,Johnson,oleg.johnson055@example.com,+37060010055,Software Engineering,3,2024-09-01
-STU056,Kristina,Miller,kristina.miller056@example.com,+37060010056,Business Informatics,4,2025-09-01
-STU057,Viktor,Garcia,viktor.garcia057@example.com,+37060010057,Computer Science,1,2024-09-01
-STU058,Natalia,Martinez,natalia.martinez058@example.com,+37060010058,Economics,2,2025-09-01
-STU059,Max,Wilson,max.wilson059@example.com,+37060010059,Data Analytics,3,2024-09-01
-STU060,Julia,Anderson,julia.anderson060@example.com,+37060010060,Cybersecurity,4,2025-09-01
+STU001,Greta,Jankauskaite,student001@university.example,+37062000001,Business Management,2,2000-08-12
+STU002,Lukas,Urbonas,student002@university.example,+37062000002,Civil Engineering,3,2001-03-23
+STU003,Egle,Balciunaite,student003@university.example,+37062000003,Medicine,4,2002-10-09
+STU004,Paulius,Kazlauskas,student004@university.example,+37062000004,Economics,5,2003-05-20
+STU005,Gabriele,Jankauskaite,student005@university.example,+37062000005,Design,6,2004-12-06
+STU006,Mindaugas,Urbonas,student006@university.example,+37062000006,Data Analytics,1,2005-07-17
+STU007,Ieva,Balciunaite,student007@university.example,+37062000007,Law,2,2006-02-03
+STU008,Tomas,Kazlauskas,student008@university.example,+37062000008,Architecture,3,2007-09-14
+STU009,Austeja,Jankauskaite,student009@university.example,+37062000009,Marketing,4,2008-04-25
+STU010,Darius,Urbonas,student010@university.example,+37062000010,Computer Science,5,2009-11-11
+STU011,Monika,Balciunaite,student011@university.example,+37062000011,Business Management,6,2010-06-22
+STU012,Karolis,Kazlauskas,student012@university.example,+37062000012,Civil Engineering,1,2011-01-08
+STU013,Ruta,Jankauskaite,student013@university.example,+37062000013,Medicine,2,2012-08-19
+STU014,Rokas,Urbonas,student014@university.example,+37062000014,Economics,3,2013-03-05
+STU015,Marta,Balciunaite,student015@university.example,+37062000015,Design,4,2014-10-16
+STU016,Mantas,Kazlauskas,student016@university.example,+37062000016,Data Analytics,5,2015-05-02
+STU017,Kamile,Jankauskaite,student017@university.example,+37062000017,Law,6,2016-12-13
+STU018,Andrius,Urbonas,student018@university.example,+37062000018,Architecture,1,2017-07-24
+STU019,Laura,Balciunaite,student019@university.example,+37062000019,Marketing,2,2018-02-10
+STU020,Jonas,Kazlauskas,student020@university.example,+37062000020,Computer Science,3,2019-09-21
+STU021,Greta,Jankauskaite,student021@university.example,+37062000021,Business Management,4,2020-04-07
+STU022,Lukas,Urbonas,student022@university.example,+37062000022,Civil Engineering,5,2021-11-18
+STU023,Egle,Balciunaite,student023@university.example,+37062000023,Medicine,6,2022-06-04
+STU024,Paulius,Kazlauskas,student024@university.example,+37062000024,Economics,1,2023-01-15
+STU025,Gabriele,Jankauskaite,student025@university.example,+37062000025,Design,2,2024-08-01
+STU026,Mindaugas,Urbonas,student026@university.example,+37062000026,Data Analytics,3,2025-03-12
+STU027,Ieva,Balciunaite,student027@university.example,+37062000027,Law,4,1999-10-23
+STU028,Tomas,Kazlauskas,student028@university.example,+37062000028,Architecture,5,2000-05-09
+STU029,Austeja,Jankauskaite,student029@university.example,+37062000029,Marketing,6,2001-12-20
+STU030,Darius,Urbonas,student030@university.example,+37062000030,Computer Science,1,2002-07-06
+STU031,Monika,Balciunaite,student031@university.example,+37062000031,Business Management,2,2003-02-17
+STU032,Karolis,Kazlauskas,student032@university.example,+37062000032,Civil Engineering,3,2004-09-03
+STU033,Ruta,Jankauskaite,student033@university.example,+37062000033,Medicine,4,2005-04-14
+STU034,Rokas,Urbonas,student034@university.example,+37062000034,Economics,5,2006-11-25
+STU035,Marta,Balciunaite,student035@university.example,+37062000035,Design,6,2007-06-11
+STU036,Mantas,Kazlauskas,student036@university.example,+37062000036,Data Analytics,1,2008-01-22
+STU037,Kamile,Jankauskaite,student037@university.example,+37062000037,Law,2,2009-08-08
+STU038,Andrius,Urbonas,student038@university.example,+37062000038,Architecture,3,2010-03-19
+STU039,Laura,Balciunaite,student039@university.example,+37062000039,Marketing,4,2011-10-05
+STU040,Jonas,Kazlauskas,student040@university.example,+37062000040,Computer Science,5,2012-05-16
+STU041,Greta,Jankauskaite,student041@university.example,+37062000041,Business Management,6,2013-12-02
+STU042,Lukas,Urbonas,student042@university.example,+37062000042,Civil Engineering,1,2014-07-13
+STU043,Egle,Balciunaite,student043@university.example,+37062000043,Medicine,2,2015-02-24
+STU044,Paulius,Kazlauskas,student044@university.example,+37062000044,Economics,3,2016-09-10
+STU045,Gabriele,Jankauskaite,student045@university.example,+37062000045,Design,4,2017-04-21
+STU046,Mindaugas,Urbonas,student046@university.example,+37062000046,Data Analytics,5,2018-11-07
+STU047,Ieva,Balciunaite,student047@university.example,+37062000047,Law,6,2019-06-18
+STU048,Tomas,Kazlauskas,student048@university.example,+37062000048,Architecture,1,2020-01-04
+STU049,Austeja,Jankauskaite,student049@university.example,+37062000049,Marketing,2,2021-08-15
+STU050,Darius,Urbonas,student050@university.example,+37062000050,Computer Science,3,2022-03-01
+STU051,Monika,Balciunaite,student051@university.example,+37062000051,Business Management,4,2023-10-12
+STU052,Karolis,Kazlauskas,student052@university.example,+37062000052,Civil Engineering,5,2024-05-23
+STU053,Ruta,Jankauskaite,student053@university.example,+37062000053,Medicine,6,2025-12-09
+STU054,Rokas,Urbonas,student054@university.example,+37062000054,Economics,1,1999-07-20
+STU055,Marta,Balciunaite,student055@university.example,+37062000055,Design,2,2000-02-06
+STU056,Mantas,Kazlauskas,student056@university.example,+37062000056,Data Analytics,3,2001-09-17
+STU057,Kamile,Jankauskaite,student057@university.example,+37062000057,Law,4,2002-04-03
+STU058,Andrius,Urbonas,student058@university.example,+37062000058,Architecture,5,2003-11-14
+STU059,Laura,Balciunaite,student059@university.example,+37062000059,Marketing,6,2004-06-25
+STU060,Jonas,Kazlauskas,student060@university.example,+37062000060,Computer Science,1,2005-01-11
+STU061,Greta,Jankauskaite,student061@university.example,+37062000061,Business Management,2,2006-08-22
+STU062,Lukas,Urbonas,student062@university.example,+37062000062,Civil Engineering,3,2007-03-08
+STU063,Egle,Balciunaite,student063@university.example,+37062000063,Medicine,4,2008-10-19
+STU064,Paulius,Kazlauskas,student064@university.example,+37062000064,Economics,5,2009-05-05
+STU065,Gabriele,Jankauskaite,student065@university.example,+37062000065,Design,6,2010-12-16
+STU066,Mindaugas,Urbonas,student066@university.example,+37062000066,Data Analytics,1,2011-07-02
+STU067,Ieva,Balciunaite,student067@university.example,+37062000067,Law,2,2012-02-13
+STU068,Tomas,Kazlauskas,student068@university.example,+37062000068,Architecture,3,2013-09-24
+STU069,Austeja,Jankauskaite,student069@university.example,+37062000069,Marketing,4,2014-04-10
+STU070,Darius,Urbonas,student070@university.example,+37062000070,Computer Science,5,2015-11-21
+STU071,Monika,Balciunaite,student071@university.example,+37062000071,Business Management,6,2016-06-07
+STU072,Karolis,Kazlauskas,student072@university.example,+37062000072,Civil Engineering,1,2017-01-18
+STU073,Ruta,Jankauskaite,student073@university.example,+37062000073,Medicine,2,2018-08-04
+STU074,Rokas,Urbonas,student074@university.example,+37062000074,Economics,3,2019-03-15
+STU075,Marta,Balciunaite,student075@university.example,+37062000075,Design,4,2020-10-01
+STU076,Mantas,Kazlauskas,student076@university.example,+37062000076,Data Analytics,5,2021-05-12
+STU077,Kamile,Jankauskaite,student077@university.example,+37062000077,Law,6,2022-12-23
+STU078,Andrius,Urbonas,student078@university.example,+37062000078,Architecture,1,2023-07-09
+STU079,Laura,Balciunaite,student079@university.example,+37062000079,Marketing,2,2024-02-20
+STU080,Jonas,Kazlauskas,student080@university.example,+37062000080,Computer Science,3,2025-09-06
+STU081,Greta,Jankauskaite,student081@university.example,+37062000081,Business Management,4,1999-04-17
+STU082,Lukas,Urbonas,student082@university.example,+37062000082,Civil Engineering,5,2000-11-03
+STU083,Egle,Balciunaite,student083@university.example,+37062000083,Medicine,6,2001-06-14
+STU084,Paulius,Kazlauskas,student084@university.example,+37062000084,Economics,1,2002-01-25
+STU085,Gabriele,Jankauskaite,student085@university.example,+37062000085,Design,2,2003-08-11
+STU086,Mindaugas,Urbonas,student086@university.example,+37062000086,Data Analytics,3,2004-03-22
+STU087,Ieva,Balciunaite,student087@university.example,+37062000087,Law,4,2005-10-08
+STU088,Tomas,Kazlauskas,student088@university.example,+37062000088,Architecture,5,2006-05-19
+STU089,Austeja,Jankauskaite,student089@university.example,+37062000089,Marketing,6,2007-12-05
+STU090,Darius,Urbonas,student090@university.example,+37062000090,Computer Science,1,2008-07-16
+STU091,Monika,Balciunaite,student091@university.example,+37062000091,Business Management,2,2009-02-02
+STU092,Karolis,Kazlauskas,student092@university.example,+37062000092,Civil Engineering,3,2010-09-13
+STU093,Ruta,Jankauskaite,student093@university.example,+37062000093,Medicine,4,2011-04-24
+STU094,Rokas,Urbonas,student094@university.example,+37062000094,Economics,5,2012-11-10
+STU095,Marta,Balciunaite,student095@university.example,+37062000095,Design,6,2013-06-21
+STU096,Mantas,Kazlauskas,student096@university.example,+37062000096,Data Analytics,1,2014-01-07
+STU097,Kamile,Jankauskaite,student097@university.example,+37062000097,Law,2,2015-08-18
+STU098,Andrius,Urbonas,student098@university.example,+37062000098,Architecture,3,2016-03-04
+STU099,Laura,Balciunaite,student099@university.example,+37062000099,Marketing,4,2017-10-15
+STU100,Jonas,Kazlauskas,student100@university.example,+37062000100,Computer Science,5,2018-05-01
+STU101,Greta,Jankauskaite,student101@university.example,+37062000101,Business Management,6,2019-12-12
+STU102,Lukas,Urbonas,student102@university.example,+37062000102,Civil Engineering,1,2020-07-23
+STU103,Egle,Balciunaite,student103@university.example,+37062000103,Medicine,2,2021-02-09
+STU104,Paulius,Kazlauskas,student104@university.example,+37062000104,Economics,3,2022-09-20
+STU105,Gabriele,Jankauskaite,student105@university.example,+37062000105,Design,4,2023-04-06
+STU106,Mindaugas,Urbonas,student106@university.example,+37062000106,Data Analytics,5,2024-11-17
+STU107,Ieva,Balciunaite,student107@university.example,+37062000107,Law,6,2025-06-03
+STU108,Tomas,Kazlauskas,student108@university.example,+37062000108,Architecture,1,1999-01-14
+STU109,Austeja,Jankauskaite,student109@university.example,+37062000109,Marketing,2,2000-08-25
+STU110,Darius,Urbonas,student110@university.example,+37062000110,Computer Science,3,2001-03-11
+STU111,Monika,Balciunaite,student111@university.example,+37062000111,Business Management,4,2002-10-22
+STU112,Karolis,Kazlauskas,student112@university.example,+37062000112,Civil Engineering,5,2003-05-08
+STU113,Ruta,Jankauskaite,student113@university.example,+37062000113,Medicine,6,2004-12-19
+STU114,Rokas,Urbonas,student114@university.example,+37062000114,Economics,1,2005-07-05
+STU115,Marta,Balciunaite,student115@university.example,+37062000115,Design,2,2006-02-16
+STU116,Mantas,Kazlauskas,student116@university.example,+37062000116,Data Analytics,3,2007-09-02
+STU117,Kamile,Jankauskaite,student117@university.example,+37062000117,Law,4,2008-04-13
+STU118,Andrius,Urbonas,student118@university.example,+37062000118,Architecture,5,2009-11-24
+STU119,Laura,Balciunaite,student119@university.example,+37062000119,Marketing,6,2010-06-10
+STU120,Jonas,Kazlauskas,student120@university.example,+37062000120,Computer Science,1,2011-01-21
+STU121,Greta,Jankauskaite,student121@university.example,+37062000121,Business Management,2,2012-08-07
+STU122,Lukas,Urbonas,student122@university.example,+37062000122,Civil Engineering,3,2013-03-18
+STU123,Egle,Balciunaite,student123@university.example,+37062000123,Medicine,4,2014-10-04
+STU124,Paulius,Kazlauskas,student124@university.example,+37062000124,Economics,5,2015-05-15
+STU125,Gabriele,Jankauskaite,student125@university.example,+37062000125,Design,6,2016-12-01
+STU126,Mindaugas,Urbonas,student126@university.example,+37062000126,Data Analytics,1,2017-07-12
+STU127,Ieva,Balciunaite,student127@university.example,+37062000127,Law,2,2018-02-23
+STU128,Tomas,Kazlauskas,student128@university.example,+37062000128,Architecture,3,2019-09-09
+STU129,Austeja,Jankauskaite,student129@university.example,+37062000129,Marketing,4,2020-04-20
+STU130,Darius,Urbonas,student130@university.example,+37062000130,Computer Science,5,2021-11-06
+STU131,Monika,Balciunaite,student131@university.example,+37062000131,Business Management,6,2022-06-17
+STU132,Karolis,Kazlauskas,student132@university.example,+37062000132,Civil Engineering,1,2023-01-03
+STU133,Ruta,Jankauskaite,student133@university.example,+37062000133,Medicine,2,2024-08-14
+STU134,Rokas,Urbonas,student134@university.example,+37062000134,Economics,3,2025-03-25
+STU135,Marta,Balciunaite,student135@university.example,+37062000135,Design,4,1999-10-11
+STU136,Mantas,Kazlauskas,student136@university.example,+37062000136,Data Analytics,5,2000-05-22
+STU137,Kamile,Jankauskaite,student137@university.example,+37062000137,Law,6,2001-12-08
+STU138,Andrius,Urbonas,student138@university.example,+37062000138,Architecture,1,2002-07-19
+STU139,Laura,Balciunaite,student139@university.example,+37062000139,Marketing,2,2003-02-05
+STU140,Jonas,Kazlauskas,student140@university.example,+37062000140,Computer Science,3,2004-09-16
+STU141,Greta,Jankauskaite,student141@university.example,+37062000141,Business Management,4,2005-04-02
+STU142,Lukas,Urbonas,student142@university.example,+37062000142,Civil Engineering,5,2006-11-13
+STU143,Egle,Balciunaite,student143@university.example,+37062000143,Medicine,6,2007-06-24
+STU144,Paulius,Kazlauskas,student144@university.example,+37062000144,Economics,1,2008-01-10
+STU145,Gabriele,Jankauskaite,student145@university.example,+37062000145,Design,2,2009-08-21
+STU146,Mindaugas,Urbonas,student146@university.example,+37062000146,Data Analytics,3,2010-03-07
+STU147,Ieva,Balciunaite,student147@university.example,+37062000147,Law,4,2011-10-18
+STU148,Tomas,Kazlauskas,student148@university.example,+37062000148,Architecture,5,2012-05-04
+STU149,Austeja,Jankauskaite,student149@university.example,+37062000149,Marketing,6,2013-12-15
+STU150,Darius,Urbonas,student150@university.example,+37062000150,Computer Science,1,2014-07-01
+STU151,Monika,Balciunaite,student151@university.example,+37062000151,Business Management,2,2015-02-12
+STU152,Karolis,Kazlauskas,student152@university.example,+37062000152,Civil Engineering,3,2016-09-23
+STU153,Ruta,Jankauskaite,student153@university.example,+37062000153,Medicine,4,2017-04-09
+STU154,Rokas,Urbonas,student154@university.example,+37062000154,Economics,5,2018-11-20
+STU155,Marta,Balciunaite,student155@university.example,+37062000155,Design,6,2019-06-06
+STU156,Mantas,Kazlauskas,student156@university.example,+37062000156,Data Analytics,1,2020-01-17
+STU157,Kamile,Jankauskaite,student157@university.example,+37062000157,Law,2,2021-08-03
+STU158,Andrius,Urbonas,student158@university.example,+37062000158,Architecture,3,2022-03-14
+STU159,Laura,Balciunaite,student159@university.example,+37062000159,Marketing,4,2023-10-25
+STU160,Jonas,Kazlauskas,student160@university.example,+37062000160,Computer Science,5,2024-05-11
+STU161,Greta,Jankauskaite,student161@university.example,+37062000161,Business Management,6,2025-12-22
+STU162,Lukas,Urbonas,student162@university.example,+37062000162,Civil Engineering,1,1999-07-08
+STU163,Egle,Balciunaite,student163@university.example,+37062000163,Medicine,2,2000-02-19
+STU164,Paulius,Kazlauskas,student164@university.example,+37062000164,Economics,3,2001-09-05
+STU165,Gabriele,Jankauskaite,student165@university.example,+37062000165,Design,4,2002-04-16
+STU166,Mindaugas,Urbonas,student166@university.example,+37062000166,Data Analytics,5,2003-11-02
+STU167,Ieva,Balciunaite,student167@university.example,+37062000167,Law,6,2004-06-13
+STU168,Tomas,Kazlauskas,student168@university.example,+37062000168,Architecture,1,2005-01-24
+STU169,Austeja,Jankauskaite,student169@university.example,+37062000169,Marketing,2,2006-08-10
+STU170,Darius,Urbonas,student170@university.example,+37062000170,Computer Science,3,2007-03-21
+STU171,Monika,Balciunaite,student171@university.example,+37062000171,Business Management,4,2008-10-07
+STU172,Karolis,Kazlauskas,student172@university.example,+37062000172,Civil Engineering,5,2009-05-18
+STU173,Ruta,Jankauskaite,student173@university.example,+37062000173,Medicine,6,2010-12-04
+STU174,Rokas,Urbonas,student174@university.example,+37062000174,Economics,1,2011-07-15
+STU175,Marta,Balciunaite,student175@university.example,+37062000175,Design,2,2012-02-01
+STU176,Mantas,Kazlauskas,student176@university.example,+37062000176,Data Analytics,3,2013-09-12
+STU177,Kamile,Jankauskaite,student177@university.example,+37062000177,Law,4,2014-04-23
+STU178,Andrius,Urbonas,student178@university.example,+37062000178,Architecture,5,2015-11-09
+STU179,Laura,Balciunaite,student179@university.example,+37062000179,Marketing,6,2016-06-20
+STU180,Jonas,Kazlauskas,student180@university.example,+37062000180,Computer Science,1,2017-01-06
+STU181,Greta,Jankauskaite,student181@university.example,+37062000181,Business Management,2,2018-08-17
+STU182,Lukas,Urbonas,student182@university.example,+37062000182,Civil Engineering,3,2019-03-03
+STU183,Egle,Balciunaite,student183@university.example,+37062000183,Medicine,4,2020-10-14
+STU184,Paulius,Kazlauskas,student184@university.example,+37062000184,Economics,5,2021-05-25
+STU185,Gabriele,Jankauskaite,student185@university.example,+37062000185,Design,6,2022-12-11
+STU186,Mindaugas,Urbonas,student186@university.example,+37062000186,Data Analytics,1,2023-07-22
+STU187,Ieva,Balciunaite,student187@university.example,+37062000187,Law,2,2024-02-08
+STU188,Tomas,Kazlauskas,student188@university.example,+37062000188,Architecture,3,2025-09-19
+STU189,Austeja,Jankauskaite,student189@university.example,+37062000189,Marketing,4,1999-04-05
+STU190,Darius,Urbonas,student190@university.example,+37062000190,Computer Science,5,2000-11-16
+STU191,Monika,Balciunaite,student191@university.example,+37062000191,Business Management,6,2001-06-02
+STU192,Karolis,Kazlauskas,student192@university.example,+37062000192,Civil Engineering,1,2002-01-13
+STU193,Ruta,Jankauskaite,student193@university.example,+37062000193,Medicine,2,2003-08-24
+STU194,Rokas,Urbonas,student194@university.example,+37062000194,Economics,3,2004-03-10
+STU195,Marta,Balciunaite,student195@university.example,+37062000195,Design,4,2005-10-21
+STU196,Mantas,Kazlauskas,student196@university.example,+37062000196,Data Analytics,5,2006-05-07
+STU197,Kamile,Jankauskaite,student197@university.example,+37062000197,Law,6,2007-12-18
+STU198,Andrius,Urbonas,student198@university.example,+37062000198,Architecture,1,2008-07-04
+STU199,Laura,Balciunaite,student199@university.example,+37062000199,Marketing,2,2009-02-15
+STU200,Jonas,Kazlauskas,student200@university.example,+37062000200,Computer Science,3,2010-09-01
+STU201,Greta,Jankauskaite,student201@university.example,+37062000201,Business Management,4,2011-04-12
+STU202,Lukas,Urbonas,student202@university.example,+37062000202,Civil Engineering,5,2012-11-23
+STU203,Egle,Balciunaite,student203@university.example,+37062000203,Medicine,6,2013-06-09
+STU204,Paulius,Kazlauskas,student204@university.example,+37062000204,Economics,1,2014-01-20
+STU205,Gabriele,Jankauskaite,student205@university.example,+37062000205,Design,2,2015-08-06
+STU206,Mindaugas,Urbonas,student206@university.example,+37062000206,Data Analytics,3,2016-03-17
+STU207,Ieva,Balciunaite,student207@university.example,+37062000207,Law,4,2017-10-03
+STU208,Tomas,Kazlauskas,student208@university.example,+37062000208,Architecture,5,2018-05-14
+STU209,Austeja,Jankauskaite,student209@university.example,+37062000209,Marketing,6,2019-12-25
+STU210,Darius,Urbonas,student210@university.example,+37062000210,Computer Science,1,2020-07-11
+STU211,Monika,Balciunaite,student211@university.example,+37062000211,Business Management,2,2021-02-22
+STU212,Karolis,Kazlauskas,student212@university.example,+37062000212,Civil Engineering,3,2022-09-08
+STU213,Ruta,Jankauskaite,student213@university.example,+37062000213,Medicine,4,2023-04-19
+STU214,Rokas,Urbonas,student214@university.example,+37062000214,Economics,5,2024-11-05
+STU215,Marta,Balciunaite,student215@university.example,+37062000215,Design,6,2025-06-16
+STU216,Mantas,Kazlauskas,student216@university.example,+37062000216,Data Analytics,1,1999-01-02
+STU217,Kamile,Jankauskaite,student217@university.example,+37062000217,Law,2,2000-08-13
+STU218,Andrius,Urbonas,student218@university.example,+37062000218,Architecture,3,2001-03-24
+STU219,Laura,Balciunaite,student219@university.example,+37062000219,Marketing,4,2002-10-10
+STU220,Jonas,Kazlauskas,student220@university.example,+37062000220,Computer Science,5,2003-05-21
+STU221,Greta,Jankauskaite,student221@university.example,+37062000221,Business Management,6,2004-12-07
+STU222,Lukas,Urbonas,student222@university.example,+37062000222,Civil Engineering,1,2005-07-18
+STU223,Egle,Balciunaite,student223@university.example,+37062000223,Medicine,2,2006-02-04
+STU224,Paulius,Kazlauskas,student224@university.example,+37062000224,Economics,3,2007-09-15
+STU225,Gabriele,Jankauskaite,student225@university.example,+37062000225,Design,4,2008-04-01
+STU226,Mindaugas,Urbonas,student226@university.example,+37062000226,Data Analytics,5,2009-11-12
+STU227,Ieva,Balciunaite,student227@university.example,+37062000227,Law,6,2010-06-23
+STU228,Tomas,Kazlauskas,student228@university.example,+37062000228,Architecture,1,2011-01-09
+STU229,Austeja,Jankauskaite,student229@university.example,+37062000229,Marketing,2,2012-08-20
+STU230,Darius,Urbonas,student230@university.example,+37062000230,Computer Science,3,2013-03-06
+STU231,Monika,Balciunaite,student231@university.example,+37062000231,Business Management,4,2014-10-17
+STU232,Karolis,Kazlauskas,student232@university.example,+37062000232,Civil Engineering,5,2015-05-03
+STU233,Ruta,Jankauskaite,student233@university.example,+37062000233,Medicine,6,2016-12-14
+STU234,Rokas,Urbonas,student234@university.example,+37062000234,Economics,1,2017-07-25
+STU235,Marta,Balciunaite,student235@university.example,+37062000235,Design,2,2018-02-11
+STU236,Mantas,Kazlauskas,student236@university.example,+37062000236,Data Analytics,3,2019-09-22
+STU237,Kamile,Jankauskaite,student237@university.example,+37062000237,Law,4,2020-04-08
+STU238,Andrius,Urbonas,student238@university.example,+37062000238,Architecture,5,2021-11-19
+STU239,Laura,Balciunaite,student239@university.example,+37062000239,Marketing,6,2022-06-05
+STU240,Jonas,Kazlauskas,student240@university.example,+37062000240,Computer Science,1,2023-01-16
+STU241,Greta,Jankauskaite,student241@university.example,+37062000241,Business Management,2,2024-08-02
+STU242,Lukas,Urbonas,student242@university.example,+37062000242,Civil Engineering,3,2025-03-13
+STU243,Egle,Balciunaite,student243@university.example,+37062000243,Medicine,4,1999-10-24
+STU244,Paulius,Kazlauskas,student244@university.example,+37062000244,Economics,5,2000-05-10
+STU245,Gabriele,Jankauskaite,student245@university.example,+37062000245,Design,6,2001-12-21
+STU246,Mindaugas,Urbonas,student246@university.example,+37062000246,Data Analytics,1,2002-07-07
+STU247,Ieva,Balciunaite,student247@university.example,+37062000247,Law,2,2003-02-18
+STU248,Tomas,Kazlauskas,student248@university.example,+37062000248,Architecture,3,2004-09-04
+STU249,Austeja,Jankauskaite,student249@university.example,+37062000249,Marketing,4,2005-04-15
+STU250,Darius,Urbonas,student250@university.example,+37062000250,Computer Science,5,2006-11-01
+STU251,Monika,Balciunaite,student251@university.example,+37062000251,Business Management,6,2007-06-12
+STU252,Karolis,Kazlauskas,student252@university.example,+37062000252,Civil Engineering,1,2008-01-23
+STU253,Ruta,Jankauskaite,student253@university.example,+37062000253,Medicine,2,2009-08-09
+STU254,Rokas,Urbonas,student254@university.example,+37062000254,Economics,3,2010-03-20
+STU255,Marta,Balciunaite,student255@university.example,+37062000255,Design,4,2011-10-06
+STU256,Mantas,Kazlauskas,student256@university.example,+37062000256,Data Analytics,5,2012-05-17
+STU257,Kamile,Jankauskaite,student257@university.example,+37062000257,Law,6,2013-12-03
+STU258,Andrius,Urbonas,student258@university.example,+37062000258,Architecture,1,2014-07-14
+STU259,Laura,Balciunaite,student259@university.example,+37062000259,Marketing,2,2015-02-25
+STU260,Jonas,Kazlauskas,student260@university.example,+37062000260,Computer Science,3,2016-09-11
