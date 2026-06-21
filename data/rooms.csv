@@ -1,0 +1,11 @@
+room_code,dorm_code,room_type_name,floor_number,capacity,monthly_price,room_status,feature_codes
+R101,DORM01,Single,1,1,210.00,Available,WIFI|DESK|PRIVATE_BATH
+R102,DORM01,Double,1,2,155.00,Available,WIFI|DESK
+R201,DORM01,Double,2,2,160.00,Available,WIFI|DESK|BALCONY
+R202,DORM01,Triple,2,3,130.00,Available,WIFI|DESK
+A101,DORM02,Single,1,1,230.00,Available,WIFI|DESK|PRIVATE_BATH|KITCHENETTE
+A102,DORM02,Double,1,2,170.00,Available,WIFI|DESK|KITCHENETTE
+A201,DORM02,Triple,2,3,140.00,Maintenance,WIFI|DESK
+C101,DORM03,Single,1,1,200.00,Available,WIFI|DESK
+C102,DORM03,Double,1,2,150.00,Available,WIFI|DESK
+C201,DORM03,Triple,2,3,125.00,Available,WIFI|DESK|LAUNDRY_NEAR

@@ -1,0 +1,11 @@
+﻿# Local/temporary files
+*.tmp
+*.log
+*.ndjson
+.Rhistory
+~$*
+__pycache__/
+
+# OS/editor files
+.DS_Store
+Thumbs.db

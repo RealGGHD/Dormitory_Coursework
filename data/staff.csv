@@ -1,0 +1,7 @@
+staff_code,first_name,last_name,position_name,dorm_code,phone
+EMP001,Jonas,Kazlauskas,Administrator,DORM01,+37061100001
+EMP002,Ieva,Mikalauskaite,Maintenance,DORM01,+37061100002
+EMP003,Rokas,Petraitis,Administrator,DORM02,+37061100003
+EMP004,Greta,Stankute,Maintenance,DORM02,+37061100004
+EMP005,Tomas,Vaitkus,Maintenance,DORM03,+37061100005
+EMP006,Marta,Jankauskaite,Administrator,DORM03,+37061100006

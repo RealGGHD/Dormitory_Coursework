@@ -1,0 +1,61 @@
+student_code,first_name,last_name,email,phone,study_program,study_year,enrolled_at
+STU001,Egor,Koptev,egor.koptev001@example.com,+37060010001,Software Engineering,1,2024-09-01
+STU002,Alina,Komar,alina.komar002@example.com,+37060010002,Business Informatics,2,2025-09-01
+STU003,Ivan,Lemesh,ivan.lemesh003@example.com,+37060010003,Computer Science,3,2024-09-01
+STU004,Daria,Klimova,daria.klimova004@example.com,+37060010004,Economics,4,2025-09-01
+STU005,Natan,Krasnapiorau,natan.krasnapiorau005@example.com,+37060010005,Data Analytics,1,2024-09-01
+STU006,Anastasiya,Kudriavceva,anastasiya.kudriavceva006@example.com,+37060010006,Cybersecurity,2,2025-09-01
+STU007,Anton,Melehov,anton.melehov007@example.com,+37060010007,Software Engineering,3,2024-09-01
+STU008,Yurii,Nazaruk,yurii.nazaruk008@example.com,+37060010008,Business Informatics,4,2025-09-01
+STU009,Hanna,Siamionava,hanna.siamionava009@example.com,+37060010009,Computer Science,1,2024-09-01
+STU010,Maksim,Paskovskij,maksim.paskovskij010@example.com,+37060010010,Economics,2,2025-09-01
+STU011,Jonas,Kazlauskas,jonas.kazlauskas011@example.com,+37060010011,Data Analytics,3,2024-09-01
+STU012,Ieva,Mikalauskaite,ieva.mikalauskaite012@example.com,+37060010012,Cybersecurity,4,2025-09-01
+STU013,Rokas,Petraitis,rokas.petraitis013@example.com,+37060010013,Software Engineering,1,2024-09-01
+STU014,Greta,Stankute,greta.stankute014@example.com,+37060010014,Business Informatics,2,2025-09-01
+STU015,Tomas,Vaitkus,tomas.vaitkus015@example.com,+37060010015,Computer Science,3,2024-09-01
+STU016,Marta,Jankauskaite,marta.jankauskaite016@example.com,+37060010016,Economics,4,2025-09-01
+STU017,Paulius,Balciunas,paulius.balciunas017@example.com,+37060010017,Data Analytics,1,2024-09-01
+STU018,Laura,Rutkauskaite,laura.rutkauskaite018@example.com,+37060010018,Cybersecurity,2,2025-09-01
+STU019,Mantas,Urbanas,mantas.urbanas019@example.com,+37060010019,Software Engineering,3,2024-09-01
+STU020,Austeja,Sakalauskaite,austeja.sakalauskaite020@example.com,+37060010020,Business Informatics,4,2025-09-01
+STU021,Karolis,Novak,karolis.novak021@example.com,+37060010021,Computer Science,1,2024-09-01
+STU022,Gabriele,Kowalski,gabriele.kowalski022@example.com,+37060010022,Economics,2,2025-09-01
+STU023,Dominykas,Smith,dominykas.smith023@example.com,+37060010023,Data Analytics,3,2024-09-01
+STU024,Viktorija,Brown,viktorija.brown024@example.com,+37060010024,Cybersecurity,4,2025-09-01
+STU025,Lukas,Johnson,lukas.johnson025@example.com,+37060010025,Software Engineering,1,2024-09-01
+STU026,Emilija,Miller,emilija.miller026@example.com,+37060010026,Business Informatics,2,2025-09-01
+STU027,Nojus,Garcia,nojus.garcia027@example.com,+37060010027,Computer Science,3,2024-09-01
+STU028,Kamile,Martinez,kamile.martinez028@example.com,+37060010028,Economics,4,2025-09-01
+STU029,Matas,Wilson,matas.wilson029@example.com,+37060010029,Data Analytics,1,2024-09-01
+STU030,Ugne,Anderson,ugne.anderson030@example.com,+37060010030,Cybersecurity,2,2025-09-01
+STU031,Daniel,Koptev,daniel.koptev031@example.com,+37060010031,Software Engineering,3,2024-09-01
+STU032,Sofia,Komar,sofia.komar032@example.com,+37060010032,Business Informatics,4,2025-09-01
+STU033,Alex,Lemesh,alex.lemesh033@example.com,+37060010033,Computer Science,1,2024-09-01
+STU034,Maria,Klimova,maria.klimova034@example.com,+37060010034,Economics,2,2025-09-01
+STU035,Timur,Krasnapiorau,timur.krasnapiorau035@example.com,+37060010035,Data Analytics,3,2024-09-01
+STU036,Elena,Kudriavceva,elena.kudriavceva036@example.com,+37060010036,Cybersecurity,4,2025-09-01
+STU037,Vlad,Melehov,vlad.melehov037@example.com,+37060010037,Software Engineering,1,2024-09-01
+STU038,Olga,Nazaruk,olga.nazaruk038@example.com,+37060010038,Business Informatics,2,2025-09-01
+STU039,Kirill,Siamionava,kirill.siamionava039@example.com,+37060010039,Computer Science,3,2024-09-01
+STU040,Nikita,Paskovskij,nikita.paskovskij040@example.com,+37060010040,Economics,4,2025-09-01
+STU041,Artem,Kazlauskas,artem.kazlauskas041@example.com,+37060010041,Data Analytics,1,2024-09-01
+STU042,Polina,Mikalauskaite,polina.mikalauskaite042@example.com,+37060010042,Cybersecurity,2,2025-09-01
+STU043,Denis,Petraitis,denis.petraitis043@example.com,+37060010043,Software Engineering,3,2024-09-01
+STU044,Irina,Stankute,irina.stankute044@example.com,+37060010044,Business Informatics,4,2025-09-01
+STU045,Roman,Vaitkus,roman.vaitkus045@example.com,+37060010045,Computer Science,1,2024-09-01
+STU046,Anastasia,Jankauskaite,anastasia.jankauskaite046@example.com,+37060010046,Economics,2,2025-09-01
+STU047,Pavel,Balciunas,pavel.balciunas047@example.com,+37060010047,Data Analytics,3,2024-09-01
+STU048,Ksenia,Rutkauskaite,ksenia.rutkauskaite048@example.com,+37060010048,Cybersecurity,4,2025-09-01
+STU049,Sergey,Urbanas,sergey.urbanas049@example.com,+37060010049,Software Engineering,1,2024-09-01
+STU050,Anna,Sakalauskaite,anna.sakalauskaite050@example.com,+37060010050,Business Informatics,2,2025-09-01
+STU051,Andrei,Novak,andrei.novak051@example.com,+37060010051,Computer Science,3,2024-09-01
+STU052,Valeria,Kowalski,valeria.kowalski052@example.com,+37060010052,Economics,4,2025-09-01
+STU053,Dmitry,Smith,dmitry.smith053@example.com,+37060010053,Data Analytics,1,2024-09-01
+STU054,Yana,Brown,yana.brown054@example.com,+37060010054,Cybersecurity,2,2025-09-01
+STU055,Oleg,Johnson,oleg.johnson055@example.com,+37060010055,Software Engineering,3,2024-09-01
+STU056,Kristina,Miller,kristina.miller056@example.com,+37060010056,Business Informatics,4,2025-09-01
+STU057,Viktor,Garcia,viktor.garcia057@example.com,+37060010057,Computer Science,1,2024-09-01
+STU058,Natalia,Martinez,natalia.martinez058@example.com,+37060010058,Economics,2,2025-09-01
+STU059,Max,Wilson,max.wilson059@example.com,+37060010059,Data Analytics,3,2024-09-01
+STU060,Julia,Anderson,julia.anderson060@example.com,+37060010060,Cybersecurity,4,2025-09-01
