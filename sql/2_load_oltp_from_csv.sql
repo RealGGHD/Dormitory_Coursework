@@ -146,4 +146,12 @@ SET room_id = EXCLUDED.room_id,
     maintenance_status = EXCLUDED.maintenance_status,
     repair_cost = EXCLUDED.repair_cost;
 
+DELETE FROM maintenance_requests mr
+WHERE NOT EXISTS (
+    SELECT 1
+    FROM stg_events e
+    WHERE e.row_type = 'maintenance'
+      AND e.maintenance_code = mr.maintenance_code
+);
+
 COMMIT;

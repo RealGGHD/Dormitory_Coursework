@@ -110,6 +110,8 @@ WHERE NOT EXISTS (
     WHERE dr.room_code = sr.room_code AND dr.is_current
 );
 
+TRUNCATE TABLE fact_maintenance, fact_occupancy, bridge_room_feature;
+
 INSERT INTO dim_feature (feature_code, feature_name)
 SELECT DISTINCT feature_code,
        INITCAP(REPLACE(feature_code, '_', ' ')) AS feature_name
