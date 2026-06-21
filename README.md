@@ -1,40 +1,40 @@
 # Student Dormitory Room Allocation and Maintenance System
 
-SQL coursework project.
+Курсовая работа по SQL.
 
-Student: Egor Koptev
+Студент: Egor Koptev
 
-## Topic
+## Тема
 
-Student Dormitory Room Allocation and Maintenance System.
+**Student Dormitory Room Allocation and Maintenance System**
 
-The system supports student room applications, room assignments, payments, and maintenance requests in university dormitories.
+Система распределения комнат и обработки заявок на обслуживание в студенческом общежитии.
 
-## Project Contents
+## Состав проекта
 
-- `data/` - source CSV files without surrogate keys.
-- `sql/0_create_databases.sql` - creates separate `dormitory_oltp` and `dormitory_olap` databases.
-- `sql/1_create_oltp.sql` - creates the OLTP schema.
-- `sql/2_load_oltp_from_csv.sql` - loads CSV data into OLTP tables.
-- `sql/3_create_olap.sql` - creates the OLAP/DWH schema.
-- `sql/4_etl_oltp_to_olap.sql` - moves and transforms data from OLTP to OLAP.
-- `sql/5_queries_oltp.sql` - OLTP analytical queries.
-- `sql/6_queries_olap.sql` - OLAP analytical queries.
-- `schemas/` - OLTP and OLAP schema images.
-- `powerbi/` - Power BI report and report layout image.
-- `docs/` - DOCX report and presentation files.
-- `bat/` - Windows helper scripts for local PostgreSQL setup.
+- `data/` - исходные CSV-файлы без surrogate keys.
+- `sql/0_create_databases.sql` - создание отдельных баз данных `dormitory_oltp` и `dormitory_olap`.
+- `sql/1_create_oltp.sql` - создание OLTP-схемы.
+- `sql/2_load_oltp_from_csv.sql` - загрузка CSV-данных в OLTP.
+- `sql/3_create_olap.sql` - создание OLAP/DWH-схемы.
+- `sql/4_etl_oltp_to_olap.sql` - перенос и трансформация данных из OLTP в OLAP.
+- `sql/5_queries_oltp.sql` - SQL-запросы к OLTP.
+- `sql/6_queries_olap.sql` - SQL-запросы к OLAP.
+- `schemas/` - изображения схем OLTP, OLAP и Power BI report layout.
+- `powerbi/` - Power BI report.
+- `docs/` - DOCX-отчёт.
+- `bat/` - Windows BAT-скрипты для локального запуска PostgreSQL и настройки баз данных.
 
-## Scope
+## Объём проекта
 
-- OLTP: 9 tables.
-- OLAP: 8 tables.
+- OLTP: 9 таблиц.
+- OLAP: 8 таблиц.
 - Fact tables: 2.
 - SCD Type 2: `dim_room`.
 - Bridge table: `bridge_room_feature`.
-- CSV files: 5.
+- CSV-файлы: 5.
 
-## Run Order
+## Порядок запуска SQL-скриптов
 
 ```bash
 psql -U postgres -d postgres -f sql/0_create_databases.sql
@@ -46,15 +46,45 @@ psql -U postgres -d dormitory_oltp -f sql/5_queries_oltp.sql
 psql -U postgres -d dormitory_olap -f sql/6_queries_olap.sql
 ```
 
-The ETL script uses PostgreSQL user `postgres` with password `1234` by default.
+По умолчанию ETL-скрипт использует PostgreSQL user `postgres` с паролем `1234`.
 
-## Windows BAT Helpers
+## BAT-скрипты
 
-The `bat/` folder contains helper scripts for local use:
+В папке `bat/` находятся вспомогательные скрипты для Windows:
 
-- `start_postgresql.bat` - starts local PostgreSQL service `postgresql-x64-18`.
-- `stop_postgresql.bat` - stops local PostgreSQL service `postgresql-x64-18`.
-- `setup_databases.bat` - creates OLTP/OLAP databases, creates schemas, loads CSV data, and runs ETL.
-- `drop_databases.bat` - drops `dormitory_oltp` and `dormitory_olap`.
+- `start_postgresql.bat` - запускает локальную службу PostgreSQL `postgresql-x64-18`.
+- `stop_postgresql.bat` - останавливает локальную службу PostgreSQL `postgresql-x64-18`.
+- `setup_databases.bat` - создаёт базы данных, создаёт схемы, загружает CSV и запускает ETL.
+- `drop_databases.bat` - удаляет базы данных `dormitory_oltp` и `dormitory_olap`.
 
-Start/stop scripts may require running as Administrator.
+Скрипты запуска и остановки PostgreSQL могут требовать запуск от имени администратора.
+
+## Power BI
+
+Power BI report находится в файле:
+
+```text
+powerbi/Dormitory_PowerBI_Report.pbix
+```
+
+Для подключения используется база данных:
+
+```text
+Server: localhost
+Database: dormitory_olap
+User: postgres
+Password: 1234
+```
+
+Основные источники данных для отчёта:
+
+- `dwh.vw_powerbi_occupancy`
+- `dwh.vw_powerbi_maintenance`
+
+## Документация
+
+Основной отчёт:
+
+```text
+docs/Dormitory_Coursework_Report.docx
+```
